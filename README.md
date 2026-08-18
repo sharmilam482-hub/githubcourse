@@ -32,5 +32,14 @@ course is very useful
 |sreeva|20|<br>
 |sam|20|<br>
 |kaviya|20|<br>
+<b> Creating a drop down </b>
+          <details>
+                 <Sumary>
+                        Click for hidden contents
+                 </Sumary>
+                        sreeva is vad girl
+          </details>
+          <br>
+           
 
 
