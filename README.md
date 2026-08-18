@@ -7,7 +7,7 @@ course is very useful
 <b>Membership</b><br>
 <p-align="center">
 <i>
-       -open to all members
-       - Atten atleast one meeting
-       - Follow the Club's code of conduct
+       -open to all members<br>
+       - Atten atleast one meeting<br>
+       - Follow the Club's code of conduct<br>
 </i>
