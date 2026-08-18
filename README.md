@@ -29,7 +29,7 @@ course is very useful
 | Name | Age |<br>
 | ---- | --- |<br>
 |Sharmila|21|<br>
-|Rithika|20|<br.
+|Rithika|20|<br>
 |sreeva|20|<br>
 |sam|20|<br>
 |kaviya|20|<br>
