@@ -34,10 +34,10 @@ course is very useful
 |kaviya|20|<br>
 <b> Creating a drop down </b>
           <details>
-                 <Sumary>
+                 <Summary>
                         Click for hidden contents
-                 </Sumary>
-                        sreeva is vad girl
+                 </Summary>
+                        sreeva is very bad girl
           </details>
           <br>
            
