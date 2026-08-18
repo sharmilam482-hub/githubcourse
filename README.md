@@ -13,10 +13,14 @@ course is very useful
        - Follow the Club's code of conduct<br>
 </i>
 </p>
-</hr>
+<hr>
 -[]<br>
 * Item-1<br>
 * Item-2<br>
 <br>
 1. Item-3<br>
 2. Item-4<br>
+<p align="center">
+[] Music<br>
+[] Story Reading<br>
+
