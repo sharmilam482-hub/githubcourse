@@ -20,7 +20,9 @@ course is very useful
 <br>
 1. Item-3<br>
 2. Item-4<br>
-<p align="center">
-[] Music<br>
-[] Story Reading<br>
+-[ ] Music<br>
+-[ ] Story Reading<br>
+-[ ] Watching Flims<br>
+[Dog image][https://in.pinterest.com/pin/adorable-golden-retriever-puppy-sitting-in-the-grass--4151824651663668/]
+<br>
 
