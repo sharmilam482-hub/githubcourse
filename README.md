@@ -25,14 +25,11 @@ course is very useful
 -[ ] Watching Flims<br>
 [Dog image][https://hips.hearstapps.com/hmg-prod/images/best-guard-dogs-1650302456.jpeg?crop=0.754xw:1.00xh;0.0651xw,0&resize=1200:*]
 <br>
-<b> Table </b> <br>
-| Name | Age |<br>
-| ---- | --- |<br>
-|Sharmila|21|<br>
-|Rithika|20|<br>
-|sreeva|20|<br>
-|sam|20|<br>
-|kaviya|20|<br>
+
+| Name | Age |
+| ----:|----:|
+| Sharmila|21|
+
 <b> Creating a drop down </b>
           <details>
                  <Summary>
