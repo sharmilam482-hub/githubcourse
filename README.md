@@ -41,7 +41,7 @@ course is very useful
           </details>
           <br>
 [git-hub]("https://github.com")<br>
-[hit-hub]("https://github.com" "click here")
+[git-hub]("https://github.com" "click here")
 <mark>
 This is the github class
 </mark>
