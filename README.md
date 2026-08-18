@@ -29,7 +29,7 @@ course is very useful
 | Name | Age |
 | ----:|----:|
 | Sharmila|21|
-
+<hr>
 <b> Creating a drop down </b>
           <details>
                  <Summary>
