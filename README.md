@@ -25,10 +25,12 @@ course is very useful
 -[ ] Watching Flims<br>
 [Dog image][https://hips.hearstapps.com/hmg-prod/images/best-guard-dogs-1650302456.jpeg?crop=0.754xw:1.00xh;0.0651xw,0&resize=1200:*]
 <br>
-|Name|Age|<br>
+<t>
+<h>|Name|Age|</h><br>
 |Sharmila|21|<br>
 |Rithika|20|<br>
 |sreeva|20|<br>
 |sam|20|<br>
 |kaviya|20|<br>
+</t>
 
