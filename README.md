@@ -23,6 +23,6 @@ course is very useful
 -[ ] Music<br>
 -[ ] Story Reading<br>
 -[ ] Watching Flims<br>
-[Dog image][https://in.pinterest.com/pin/adorable-golden-retriever-puppy-sitting-in-the-grass--4151824651663668/]
+[Dog image][https://hips.hearstapps.com/hmg-prod/images/best-guard-dogs-1650302456.jpeg?crop=0.754xw:1.00xh;0.0651xw,0&resize=1200:*]
 <br>
 
