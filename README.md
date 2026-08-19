@@ -68,3 +68,5 @@ GitHub repository and website that acts as an organized community information po
   - Environmental initiatives<br>
   - Emergency contacts<br>
   - GitHub Pages website<br>
+
+<hr>
