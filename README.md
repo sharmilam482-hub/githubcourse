@@ -61,3 +61,10 @@ GitHub repository and website that acts as an organized community information po
 
 ### Expected Deliverables
 
+ Community profile<br>
+ Government schemes<br>
+ Health awareness materials<br>
+ Educational resources<br>
+ Environmental initiatives<br>
+ Emergency contacts<br>
+ GitHub Pages website<br>
