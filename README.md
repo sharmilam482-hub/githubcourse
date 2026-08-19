@@ -57,3 +57,7 @@ This is the github class
 <p>Communities often require reliable information on public services, health awareness,
 environmental initiatives, educational opportunities, and government schemes. Develop a
 GitHub repository and website that acts as an organized community information portal.</p>
+
+
+### Expected Deliverables
+
