@@ -49,5 +49,4 @@ This is the github class
 
 # project
 
-## Community Resource and
-Awareness Portal
+## Community Resource and Awareness Portal
